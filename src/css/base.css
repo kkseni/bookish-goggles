@@ -30,3 +30,12 @@ main {
 main:has(.back-link) {
   text-align: center;
 }
+.section{
+  padding: 50px 0;
+}
+@media screen and (min-width:1200px){
+  .section{
+    padding: 75px 0;
+  }
+  
+}
